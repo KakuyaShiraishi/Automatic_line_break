@@ -1,4 +1,4 @@
-# Automatic_line_break
+# Automatic line break
 A paragraph is made from a character string.
 
 ## Used character string
