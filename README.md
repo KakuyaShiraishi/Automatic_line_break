@@ -1,5 +1,5 @@
 # Automatic line break
-A paragraph is made from a character string.
+文字列を解析し改行を自動で行う
 
 ## Used character strings
 「In the transparent wind in that country, Ihatove, even in summer the sky is a blue of the most profound coldness; the town of Morillo is set amongst dazzling forests, and the surrounding countryside quivers in waves of undulating vegetation.」  
